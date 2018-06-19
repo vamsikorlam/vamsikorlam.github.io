@@ -35,11 +35,8 @@ header.startup h1 {
   font-size: 2rem; 
 }
 
-#mc_embed_signup form{
-  display: none !important; 
-  position: none !important; 
-  text-align: none !important; 
-  padding: none !important;   
+#mc_embed_signup form{ 
+  text-align: center !important;  
 }
 
 .btn {
