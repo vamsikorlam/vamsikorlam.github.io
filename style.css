@@ -36,7 +36,10 @@ header.startup h1 {
 }
 
 #mc_embed_signup form{
-  text-align: center !important;  
+  display: none !important; 
+  position: none !important; 
+  text-align: none !important; 
+  padding: none !important;   
 }
 
 .btn {
