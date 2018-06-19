@@ -35,11 +35,6 @@ header.startup h1 {
   font-size: 2rem; 
 }
 
-#mc_embed_signup form{ 
-  text-align: center !important;  
-  padding: 0 !important;
-}
-
 .btn {
   font-weight: 700;
   text-transform: uppercase;
@@ -61,4 +56,4 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-  
+   
